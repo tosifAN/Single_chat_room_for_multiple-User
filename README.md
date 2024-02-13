@@ -62,14 +62,4 @@ The chatroom allows multiple users to join and communicate with each other in re
 - **Backend:** Node.js with Express.js
 - **Real-time Communication:** Socket.IO
 
-## Contributing
 
-Contributions are welcome! Feel free to open issues or pull requests for any improvements or features you'd like to add.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-Special thanks to Socket.IO for providing a powerful real-time communication library.
